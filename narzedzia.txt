@@ -7,4 +7,4 @@
 7,Piła tarczowa,Elektryczne,wypozyczone,2022-08-05,19
 8,Imadło,Ręczne,dostepne,2021-12-01,6
 9,Miarka,Pomiarowe,dostepne,2024-01-20,3
-10,Szczypce,Ręczne,w naprawie,2023-06-30,12
+10,Szczypce,Ręczne,w naprawie,2023-06-29,12
