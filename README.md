@@ -2,7 +2,7 @@
 
 ## Opis
 
-Ten projekt to aplikacja konsolowa w języku C++, służąca do zarządzania zestawem narzędzi. Umożliwia dodawanie, edytowanie, usuwanie, sortowanie oraz wyszukiwanie narzędzi, a także ich zapis i odczyt z pliku `narzedzia.txt`.
+Ten projekt to aplikacja konsolowa w języku C, służąca do zarządzania zestawem narzędzi. Umożliwia dodawanie, edytowanie, usuwanie, sortowanie oraz wyszukiwanie narzędzi, a także ich zapis i odczyt z pliku `narzedzia.txt`.
 
 ## Pliki
 
