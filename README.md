@@ -6,7 +6,7 @@ Ten projekt to aplikacja konsolowa w języku C, służąca do zarządzania zesta
 
 ## Pliki
 
-- `wyporzyczalnia_narzedzi.cpp` – główny plik źródłowy zawierający logikę aplikacji.
+- `wyporzyczalnia_narzedzi.c` – główny plik źródłowy zawierający logikę aplikacji.
 - `narzedzia.txt` – plik z danymi narzędzi w formacie CSV.
 - `README.md` – ten plik, zawierający dokumentację projektu.
 
