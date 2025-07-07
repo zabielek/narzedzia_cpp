@@ -24,7 +24,7 @@ Każde narzędzie opisane jest przez następujące pola:
 
 1. **Skompiluj program**:
    ```bash
-   gcc -o narzedzia wyporzyczalnia_narzedzi.cpp
+   gcc -o narzedzia wyporzyczalnia_narzedzi.c
    ```
 
 2. **Uruchom program**:
